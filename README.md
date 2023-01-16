@@ -8,5 +8,9 @@ Header composed of 4-bit target and 4-bit source.
 Xcelium simulations can be run online using free Doulos EDAPlayground.
 
 Taylor's solutions:
+
 Lab01: https://www.edaplayground.com/x/vYAn
+
 Lab02: https://www.edaplayground.com/x/NrhV
+
+Lab03: https://www.edaplayground.com/x/GLEp
